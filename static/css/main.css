@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(#233329,#63d471);
+    background-repeat: no-repeat;
+    background-size: 400% 400%;
+}
+#blurb{
+    text-align: center;
+    color: #ffffff;
+    
+}
+.container{
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+#form{
+    display: inline-block;
+}
+
+.input{
+    height: 30px;
+    font-size: 14px;
+}
+
+#submit{
+    height: 30px;
+}
+#display{
+    color: #ad8d49;
+    font-family: Garamond,serif;
+    font-size: 45px;
+}
