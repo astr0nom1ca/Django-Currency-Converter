@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded',function(){
     document.querySelector('form').onsubmit= function(){
       var myHeaders = new Headers();
-myHeaders.append("apikey", "yxDnvw79zW6qXmE4x9eLRgCAf4SshtIM");
+myHeaders.append("apikey", "your_api_key");
 
 var requestOptions = {
 method: 'GET',
